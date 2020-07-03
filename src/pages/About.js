@@ -21,7 +21,7 @@ function About() {
           <p className="mb-2">GIS professional focus on GIS related system design, application development and business case analysis. </p>
           <p className="mb-2">Rich solution providing experience from many industies, including but not limit to: <strong> Forestry, Defence, Public Health, Disaster Response and Transpotation</strong></p>
           <p className="mb-4">Currently I'm working as a GIS Conslutant for <a href="https://esri.ca/en">Esri Canada</a></p>
-          <div className="social-icons">
+          <div className="mb-5 social-icons">
             <a href="https://www.linkedin.com/in/maxguojiaqi">
               <i className="fab fa-linkedin-in"></i>
             </a>
