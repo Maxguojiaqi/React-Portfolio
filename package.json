@@ -1,5 +1,6 @@
-{"homepage": "https://github.com/Maxguojiaqi/React-Portfolio",
+{
   "name": "portfolio",
+  "homepage": "http://Maxguojiaqi.github.io/React-Portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
