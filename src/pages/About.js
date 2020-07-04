@@ -7,7 +7,7 @@ function About() {
   return (
     <div className="mt-3 text-center">
       <section id="about">
-      <img width="220" height="300" src="./img/profile.jpg" className="rounded mx-auto d-block" alt="profile"/>
+      <img width="220" height="300" src="img/profile.jpg" className="rounded mx-auto d-block" alt="profile"/>
         <div className="w-100">
           <h1 className="mb-2">Jiaqi Guo
             <span className="text-primary">Max</span>

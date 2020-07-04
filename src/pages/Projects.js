@@ -24,7 +24,7 @@ function Projects() {
     },
     {
       name: "Sharit",
-      imgSource : "../img/sharit.JPG",
+      imgSource : "./img/sharit.JPG",
       projectURL : "https://sharit-social-platform.herokuapp.com/signup-login",
       githubURL : "https://github.com/mila-mamat/Project2-Sharit"
     },
@@ -55,7 +55,7 @@ function Projects() {
   ]
 
   let projectsJSX = projects.map(element => {
-    return <Project name={element.name} imgSource={element.imgSource} imageAlt={element.imageAlt} projectURL={element.projectURL} githubURL={element.githubURL} />
+    return <Project key ={element.name} name={element.name} imgSource={element.imgSource} imageAlt={element.imageAlt} projectURL={element.projectURL} githubURL={element.githubURL} />
   })
 
   return (
